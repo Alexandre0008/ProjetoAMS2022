@@ -1,0 +1,30 @@
+c:\users\21024\documents\visual studio 2015\Projects\PRJ_REVISAO\PRJ_REVISAO\bin\Debug\PRJ_REVISAO.exe.config
+c:\users\21024\documents\visual studio 2015\Projects\PRJ_REVISAO\PRJ_REVISAO\bin\Debug\PRJ_REVISAO.exe
+c:\users\21024\documents\visual studio 2015\Projects\PRJ_REVISAO\PRJ_REVISAO\bin\Debug\PRJ_REVISAO.pdb
+c:\users\21024\documents\visual studio 2015\Projects\PRJ_REVISAO\PRJ_REVISAO\obj\Debug\PRJ_REVISAO.csprojResolveAssemblyReference.cache
+c:\users\21024\documents\visual studio 2015\Projects\PRJ_REVISAO\PRJ_REVISAO\obj\Debug\PRJ_REVISAO.Form1.resources
+c:\users\21024\documents\visual studio 2015\Projects\PRJ_REVISAO\PRJ_REVISAO\obj\Debug\PRJ_REVISAO.Properties.Resources.resources
+c:\users\21024\documents\visual studio 2015\Projects\PRJ_REVISAO\PRJ_REVISAO\obj\Debug\PRJ_REVISAO.csproj.GenerateResource.Cache
+c:\users\21024\documents\visual studio 2015\Projects\PRJ_REVISAO\PRJ_REVISAO\obj\Debug\PRJ_REVISAO.exe
+c:\users\21024\documents\visual studio 2015\Projects\PRJ_REVISAO\PRJ_REVISAO\obj\Debug\PRJ_REVISAO.pdb
+D:\Atvs de tec\revsisao ds\Visual Studio 2015\Projects\PRJ_REVISAO\PRJ_REVISAO\bin\Debug\PRJ_REVISAO.exe.config
+D:\Atvs de tec\revsisao ds\Visual Studio 2015\Projects\PRJ_REVISAO\PRJ_REVISAO\obj\Debug\PRJ_REVISAO.exe
+D:\Atvs de tec\revsisao ds\Visual Studio 2015\Projects\PRJ_REVISAO\PRJ_REVISAO\obj\Debug\PRJ_REVISAO.pdb
+D:\Atvs de tec\revsisao ds\Visual Studio 2015\Projects\PRJ_REVISAO\PRJ_REVISAO\bin\Debug\PRJ_REVISAO.exe
+D:\Atvs de tec\revsisao ds\Visual Studio 2015\Projects\PRJ_REVISAO\PRJ_REVISAO\bin\Debug\PRJ_REVISAO.pdb
+D:\Atvs de tec\revsisao ds\Visual Studio 2015\Projects\PRJ_REVISAO\PRJ_REVISAO\obj\Debug\PRJ_REVISAO.csprojResolveAssemblyReference.cache
+D:\Atvs de tec\revsisao ds\Visual Studio 2015\Projects\PRJ_REVISAO\PRJ_REVISAO\obj\Debug\PRJ_REVISAO.Form1.resources
+D:\Atvs de tec\revsisao ds\Visual Studio 2015\Projects\PRJ_REVISAO\PRJ_REVISAO\obj\Debug\PRJ_REVISAO.Properties.Resources.resources
+D:\Atvs de tec\revsisao ds\Visual Studio 2015\Projects\PRJ_REVISAO\PRJ_REVISAO\obj\Debug\PRJ_REVISAO.csproj.GenerateResource.Cache
+E:\Atvs de tec\revsisao ds\Visual Studio 2015\Projects\PRJ_REVISAO\PRJ_REVISAO\bin\Debug\PRJ_REVISAO.exe.config
+E:\Atvs de tec\revsisao ds\Visual Studio 2015\Projects\PRJ_REVISAO\PRJ_REVISAO\obj\Debug\PRJ_REVISAO.exe
+E:\Atvs de tec\revsisao ds\Visual Studio 2015\Projects\PRJ_REVISAO\PRJ_REVISAO\obj\Debug\PRJ_REVISAO.pdb
+E:\Atvs de tec\revsisao ds\Visual Studio 2015\Projects\PRJ_REVISAO\PRJ_REVISAO\bin\Debug\PRJ_REVISAO.exe
+E:\Atvs de tec\revsisao ds\Visual Studio 2015\Projects\PRJ_REVISAO\PRJ_REVISAO\bin\Debug\PRJ_REVISAO.pdb
+E:\Atvs de tec\revsisao ds\Visual Studio 2015\Projects\PRJ_REVISAO\PRJ_REVISAO\obj\Debug\PRJ_REVISAO.csprojResolveAssemblyReference.cache
+E:\Atvs de tec\revsisao ds\Visual Studio 2015\Projects\PRJ_REVISAO\PRJ_REVISAO\obj\Debug\PRJ_REVISAO.Form1.resources
+E:\Atvs de tec\revsisao ds\Visual Studio 2015\Projects\PRJ_REVISAO\PRJ_REVISAO\obj\Debug\PRJ_REVISAO.Properties.Resources.resources
+E:\Atvs de tec\revsisao ds\Visual Studio 2015\Projects\PRJ_REVISAO\PRJ_REVISAO\obj\Debug\PRJ_REVISAO.csproj.GenerateResource.Cache
+F:\Atvs de tec\revsisao ds\Visual Studio 2015\Projects\PRJ_REVISAO\PRJ_REVISAO\bin\Debug\PRJ_REVISAO.exe.config
+F:\Atvs de tec\revsisao ds\Visual Studio 2015\Projects\PRJ_REVISAO\PRJ_REVISAO\obj\Debug\PRJ_REVISAO.exe
+F:\Atvs de tec\revsisao ds\Visual Studio 2015\Projects\PRJ_REVISAO\PRJ_REVISAO\obj\Debug\PRJ_REVISAO.pdb

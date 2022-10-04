@@ -92,6 +92,7 @@ namespace PRJ_REVISAO
             else if (RDB_VOTO.Checked == true || textBox1.Text == "" || textBox2.Text == "")
             {
                 MessageBox.Show("Voce votou em branco ", " Voto efetuado com sucesso");
+                MessageBox.Show("Tem certeza disso", "Voto computado");
                 
             }
         }
